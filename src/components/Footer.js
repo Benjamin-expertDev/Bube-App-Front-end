@@ -29,7 +29,7 @@ function Footer() {
           <ul>
             <li className='mb-2'>Home</li>
             <li className='mb-2'>Find Work</li>
-            <li className='mb-2'>Why Bube</li>
+            <li className='mb-2'>Why Ben</li>
             <li className='mb-2'>Home</li>
             <li className='mb-2'>Enterprise</li>
             <li className='mb-2'>Blog</li>
@@ -54,7 +54,7 @@ function Footer() {
               <i><HiMail /></i>
             </div>
             <div>
-              <h6 className='mb-2'>info@bube.com</h6>
+              <h6 className='mb-2'>info@Ben.com</h6>
             </div>
           </div>
 
